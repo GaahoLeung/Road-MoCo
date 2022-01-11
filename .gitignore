@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/logs/*
+/save/*
+*.csv
+*blockwiseMaskingTest.py
+/.idea/*
+/runs/*
+.idea/misc.xml
